@@ -132,194 +132,7 @@
 				)
 			)
 		)
-		(symbol "SamacSys_Parts:15-91-3024"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "15-91-3024"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "15913024"
-				(at 16.51 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/15-91-3024.pdf"
-				(at 16.51 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "Headers & Wire Housings SL 2 CKT W-T-B SHROU"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Headers & Wire Housings SL 2 CKT W-T-B SHROU"
-				(at 16.51 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Height" "7"
-				(at 16.51 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Molex"
-				(at 16.51 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "15-91-3024"
-				(at 16.51 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "538-15-91-3024"
-				(at 16.51 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/15-91-3024?qs=u6Gr9%2FNt%252B%2F%252BxdZ%252BOvBqKyg%3D%3D"
-				(at 16.51 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 16.51 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 16.51 -20.32 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(symbol "15-91-3024_0_0"
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "15-91-3024_0_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 15.24 2.54) (xy 15.24 -5.08) (xy 5.08 -5.08) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-		)
-		(symbol "SamacSys_Parts:2601-1104"
+		(symbol "SamacSys_Parts:2601-3102"
 			(pin_names
 				(offset 0.762)
 			)
@@ -335,7 +148,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "2601-1104"
+			(property "Value" "2601-3102"
 				(at 21.59 5.08 0)
 				(effects
 					(font
@@ -344,7 +157,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "26011104"
+			(property "Footprint" "26013102"
 				(at 21.59 2.54 0)
 				(effects
 					(font
@@ -354,7 +167,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.wago.com/2601-1104"
+			(property "Datasheet" "https://www.wago.com/2601-3102"
 				(at 21.59 0 0)
 				(effects
 					(font
@@ -364,7 +177,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 4-pole; Push-in CAGE CLAMP"
+			(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 2-pole; Push-in CAGE CLAMP"
 				(at 0 0 0)
 				(effects
 					(font
@@ -373,7 +186,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 4-pole; Push-in CAGE CLAMP"
+			(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 2-pole; Push-in CAGE CLAMP"
 				(at 21.59 -2.54 0)
 				(effects
 					(font
@@ -383,7 +196,7 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "12.75"
+			(property "Height" "16.58"
 				(at 21.59 -5.08 0)
 				(effects
 					(font
@@ -403,7 +216,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "2601-1104"
+			(property "Manufacturer_Part_Number" "2601-3102"
 				(at 21.59 -10.16 0)
 				(effects
 					(font
@@ -453,7 +266,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "2601-1104_0_0"
+			(symbol "2601-3102_0_0"
 				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
@@ -465,6 +278,283 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "1.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "2.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "2601-3102_0_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 20.32 2.54) (xy 20.32 -5.08) (xy 5.08 -5.08) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+		(symbol "SamacSys_Parts:2601-3106"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 21.59 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "2601-3106"
+				(at 21.59 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "26013106"
+				(at 21.59 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.wago.com/2601-3106"
+				(at 21.59 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 6-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 6-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
+				(at 21.59 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "16.58"
+				(at 21.59 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Wago"
+				(at 21.59 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "2601-3106"
+				(at 21.59 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 21.59 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 21.59 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "2601-3106"
+				(at 21.59 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/2601-3106/wago-kontakttechnik-gmbh?utm_currency=USD&region=nac"
+				(at 21.59 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "2601-3106_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -10.16 180)
+					(length 5.08)
+					(name "5.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "6.1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -12.7 180)
+					(length 5.08)
+					(name "6.2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -598,499 +688,6 @@
 						)
 					)
 				)
-			)
-			(symbol "2601-1104_0_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 20.32 2.54) (xy 20.32 -10.16) (xy 5.08 -10.16) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-		)
-		(symbol "SamacSys_Parts:2601-1110"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 24.13 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "2601-1110"
-				(at 24.13 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "26011110"
-				(at 24.13 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.wago.com/2601-1110"
-				(at 24.13 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 10-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 10-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
-				(at 24.13 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Height" "12.75"
-				(at 24.13 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Wago"
-				(at 24.13 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "2601-1110"
-				(at 24.13 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 24.13 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 24.13 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 24.13 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 24.13 -20.32 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(symbol "2601-1110_0_0"
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -10.16 180)
-					(length 5.08)
-					(name "5.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -12.7 0)
-					(length 5.08)
-					(name "6.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -12.7 180)
-					(length 5.08)
-					(name "6.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -15.24 0)
-					(length 5.08)
-					(name "7.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -15.24 180)
-					(length 5.08)
-					(name "7.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -17.78 0)
-					(length 5.08)
-					(name "8.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -17.78 180)
-					(length 5.08)
-					(name "8.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -20.32 0)
-					(length 5.08)
-					(name "9.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -20.32 180)
-					(length 5.08)
-					(name "9.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 0)
-					(length 5.08)
-					(name "10.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 0 180)
-					(length 5.08)
-					(name "1.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -22.86 180)
-					(length 5.08)
-					(name "10.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -2.54 180)
-					(length 5.08)
-					(name "2.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "3.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -5.08 180)
-					(length 5.08)
-					(name "3.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "4.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 27.94 -7.62 180)
-					(length 5.08)
-					(name "4.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin passive line
 					(at 0 -10.16 0)
 					(length 5.08)
@@ -1110,10 +707,402 @@
 					)
 				)
 			)
-			(symbol "2601-1110_0_1"
+			(symbol "2601-3106_0_1"
 				(polyline
 					(pts
-						(xy 5.08 2.54) (xy 22.86 2.54) (xy 22.86 -25.4) (xy 5.08 -25.4) (xy 5.08 2.54)
+						(xy 5.08 2.54) (xy 20.32 2.54) (xy 20.32 -15.24) (xy 5.08 -15.24) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+		(symbol "SamacSys_Parts:70543-0036"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "70543-0036"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "SHDR2W64P0X254_1X2_737X660X1194P"
+				(at 16.51 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.molex.com/pdm_docs/sd/705430036_sd.pdf"
+				(at 16.51 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Header 2.54mm, single row, vertical, 2w Molex SL Series, Series Number 70543, 2.54mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Header 2.54mm, single row, vertical, 2w Molex SL Series, Series Number 70543, 2.54mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+				(at 16.51 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "11.94"
+				(at 16.51 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Molex"
+				(at 16.51 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "70543-0036"
+				(at 16.51 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "538-70543-0036"
+				(at 16.51 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/70543-0036?qs=ZwgtpdmWYYRWNbj3UtGKiw%3D%3D"
+				(at 16.51 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 16.51 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 16.51 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "70543-0036_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "70543-0036_0_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 15.24 2.54) (xy 15.24 -5.08) (xy 5.08 -5.08) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+		(symbol "SamacSys_Parts:70543-0037"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "70543-0037"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "SHDR3W97P0X254_1X3_1017X660X1181P"
+				(at 16.51 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/70543-0037.pdf"
+				(at 16.51 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Header 2.54mm, single row, vertical, 3w Molex SL Series, Series Number 70543, 2.54mm Pitch 3 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Header 2.54mm, single row, vertical, 3w Molex SL Series, Series Number 70543, 2.54mm Pitch 3 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+				(at 16.51 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "11.81"
+				(at 16.51 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Molex"
+				(at 16.51 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "70543-0037"
+				(at 16.51 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "538-70543-0037"
+				(at 16.51 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/70543-0037?qs=tYx%252BZc2nXqrtAYibG9KyeQ%3D%3D"
+				(at 16.51 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 16.51 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 16.51 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "70543-0037_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "70543-0037_0_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 15.24 2.54) (xy 15.24 -7.62) (xy 5.08 -7.62) (xy 5.08 2.54)
 					)
 					(stroke
 						(width 0.1524)
@@ -1369,7 +1358,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 113.03) (xy 181.61 113.03)
+			(xy 168.91 123.19) (xy 179.07 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1379,73 +1368,43 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 73.66) (xy 208.28 73.66)
+			(xy 168.91 78.74) (xy 176.53 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "128aaffe-a9d5-4140-a69c-0c0f18a4a815")
+		(uuid "12801a26-2da9-42cf-8c7b-606df9d8eb89")
 	)
 	(wire
 		(pts
-			(xy 176.53 76.2) (xy 170.18 76.2)
+			(xy 201.93 78.74) (xy 204.47 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1bcaa08b-7abd-4336-858e-4c85a26a90db")
+		(uuid "1c62d5d2-d782-4bbc-b59f-32b350a1fa02")
 	)
 	(wire
 		(pts
-			(xy 204.47 68.58) (xy 208.28 68.58)
+			(xy 73.66 110.49) (xy 80.01 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2294ebd9-ce3e-41bb-98d5-6c182c02f937")
+		(uuid "24a7a20c-f99b-4a0b-84d2-991f563c3c2b")
 	)
 	(wire
 		(pts
-			(xy 163.83 118.11) (xy 171.45 118.11)
+			(xy 161.29 128.27) (xy 168.91 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "26cb4268-6ee5-4377-8dd5-d545c4f6d7b1")
-	)
-	(wire
-		(pts
-			(xy 204.47 78.74) (xy 208.28 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a7fbef2-bed9-461a-b936-f181300e3f40")
-	)
-	(wire
-		(pts
-			(xy 170.18 81.28) (xy 176.53 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a290817-204c-4296-bcd9-a9a84ab9b08b")
-	)
-	(wire
-		(pts
-			(xy 68.58 74.93) (xy 74.93 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3afed53d-5bfc-4e49-ae13-cf08bf6fc163")
 	)
 	(wire
 		(pts
@@ -1459,47 +1418,107 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 110.49) (xy 76.2 110.49)
+			(xy 168.91 76.2) (xy 176.53 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "41845d8f-723d-492e-869a-899b5541057e")
+		(uuid "496c31c6-16b5-4438-9c16-534fdc3cad7b")
 	)
 	(wire
 		(pts
-			(xy 100.33 72.39) (xy 104.14 72.39)
+			(xy 168.91 71.12) (xy 176.53 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "433642d3-d4c2-4ded-854a-a04671e05446")
+		(uuid "4f285d18-74db-4def-a425-f4612b7e1306")
 	)
 	(wire
 		(pts
-			(xy 176.53 71.12) (xy 170.18 71.12)
+			(xy 73.66 115.57) (xy 80.01 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4e4b9965-3cdd-4fad-afc5-d1a5d23593fb")
+		(uuid "5b0b3886-cb74-419c-a000-2489024f0671")
 	)
 	(wire
 		(pts
-			(xy 204.47 88.9) (xy 208.28 88.9)
+			(xy 201.93 76.2) (xy 204.47 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8882a664-be07-42fa-8125-39ef5b39b2c9")
+		(uuid "5cb09945-08ea-4918-b6d3-ea2d89e0c405")
 	)
 	(wire
 		(pts
-			(xy 170.18 86.36) (xy 176.53 86.36)
+			(xy 173.99 104.14) (xy 180.34 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66b8a8f0-3f3f-4cda-9c12-9b7967d14aba")
+	)
+	(wire
+		(pts
+			(xy 201.93 66.04) (xy 204.47 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6937d5ca-29ce-432c-97a5-9618e66d9117")
+	)
+	(wire
+		(pts
+			(xy 180.34 92.71) (xy 173.99 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8aa2beaf-30f7-465d-9dfc-b5c855144aef")
+	)
+	(wire
+		(pts
+			(xy 201.93 71.12) (xy 204.47 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f3e9ed4-cf24-4e5a-a9cb-c50dce76a8c2")
+	)
+	(wire
+		(pts
+			(xy 168.91 68.58) (xy 176.53 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0a00f47-819a-47fe-b93c-998ce1a1a9b6")
+	)
+	(wire
+		(pts
+			(xy 201.93 73.66) (xy 204.47 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b456f3e2-6b42-4184-8e1b-226cc4beeae2")
+	)
+	(wire
+		(pts
+			(xy 173.99 90.17) (xy 180.34 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1509,17 +1528,37 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 83.82) (xy 208.28 83.82)
+			(xy 173.99 106.68) (xy 180.34 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c62b1422-1a32-41f0-8fd8-b74c9a950ee1")
+		(uuid "bae80960-3174-49cd-96e0-dd128fa2326a")
 	)
 	(wire
 		(pts
-			(xy 179.07 118.11) (xy 181.61 118.11)
+			(xy 68.58 67.31) (xy 74.93 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be27dfd7-b9a2-49e2-a5c0-62f6af4dbb1a")
+	)
+	(wire
+		(pts
+			(xy 168.91 73.66) (xy 176.53 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf7c25e5-e51b-4553-8e5f-e3a696e10e85")
+	)
+	(wire
+		(pts
+			(xy 176.53 128.27) (xy 179.07 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1529,23 +1568,33 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 113.03) (xy 76.2 113.03)
+			(xy 201.93 68.58) (xy 204.47 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e93ba57d-b376-4053-9c84-eb96d6e25a95")
+		(uuid "e440ff2f-df5a-4270-b81a-83296c981f43")
 	)
 	(wire
 		(pts
-			(xy 176.53 66.04) (xy 170.18 66.04)
+			(xy 168.91 66.04) (xy 176.53 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f9689b92-d719-4c05-9964-b47c36b7f41e")
+		(uuid "e94c873c-d3c5-4a3d-9562-1c5babe9bf11")
+	)
+	(wire
+		(pts
+			(xy 100.33 69.85) (xy 104.14 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f38702cf-f0c0-41ff-9f25-f92593a87de8")
 	)
 	(wire
 		(pts
@@ -1557,30 +1606,8 @@
 		)
 		(uuid "ffc41800-1d1d-4438-8f4c-58960e478bf4")
 	)
-	(label "CAN-Y"
-		(at 170.18 66.04 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b309d54-5751-4086-ba4b-296c91d75514")
-	)
-	(label "GND"
-		(at 69.85 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ef42704-fdab-4f7d-b0fa-038544457631")
-	)
 	(label "CAN-G"
-		(at 208.28 73.66 0)
+		(at 204.47 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1588,9 +1615,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "109adcbd-332a-4916-9452-a57ba247b115")
+		(uuid "04adc52c-6423-48ea-a3cb-ba65a5f70ef0")
 		(property "Netclass" ""
-			(at 208.28 74.93 0)
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1601,18 +1628,7 @@
 		)
 	)
 	(label "CAN-Y"
-		(at 170.18 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1e380d8a-7243-4947-b381-37d62dd5d181")
-	)
-	(label "CAN-Y"
-		(at 163.83 118.11 0)
+		(at 161.29 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1622,19 +1638,8 @@
 		)
 		(uuid "2ccd6efd-3d83-4cab-a63a-cb45d6082232")
 	)
-	(label "PWR"
-		(at 69.85 113.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "32700f7f-ee86-46af-9e0b-2bc2ea4b57ae")
-	)
 	(label "CAN-Y"
-		(at 170.18 81.28 0)
+		(at 168.91 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1642,10 +1647,73 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "4e57b68b-d6c7-4b7d-8749-607fbeb09125")
+		(uuid "32b69c20-11f1-4c6d-a068-1f9d760f036e")
+	)
+	(label "PWR"
+		(at 104.14 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34779f3c-1881-4103-a24d-fdb2f3e373b5")
+		(property "Netclass" ""
+			(at 104.14 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "CAN-G"
-		(at 171.45 113.03 0)
+		(at 204.47 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "37bd5b37-a9c1-4fc4-beab-f4c5e1a9c893")
+		(property "Netclass" ""
+			(at 204.47 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(label "CAN-G"
+		(at 173.99 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "63645077-935d-44da-8a72-4665a2266dbe")
+		(property "Netclass" ""
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(label "CAN-G"
+		(at 168.91 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1655,7 +1723,7 @@
 		)
 		(uuid "677c3342-2e4d-442d-bbfd-752d20a461f5")
 		(property "Netclass" ""
-			(at 171.45 114.3 0)
+			(at 168.91 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1666,7 +1734,7 @@
 		)
 	)
 	(label "CAN-G"
-		(at 208.28 78.74 0)
+		(at 168.91 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1674,9 +1742,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67c80b7d-fbf3-403e-84e8-b35b1e0cda7d")
+		(uuid "690a99f5-b12b-4315-b96c-ea1a4102ea34")
 		(property "Netclass" ""
-			(at 208.28 80.01 0)
+			(at 168.91 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,7 +1755,7 @@
 		)
 	)
 	(label "CAN-G"
-		(at 208.28 88.9 0)
+		(at 173.99 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1697,7 +1765,7 @@
 		)
 		(uuid "70e6ef3f-c106-409b-a47d-c00ee232b17d")
 		(property "Netclass" ""
-			(at 208.28 90.17 0)
+			(at 173.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1728,8 +1796,8 @@
 			)
 		)
 	)
-	(label "CAN-Y"
-		(at 170.18 71.12 0)
+	(label "CAN-G"
+		(at 168.91 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1737,9 +1805,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "8517a265-38db-4a32-867f-b35b29f0d7a0")
+		(uuid "7d95e5f7-b235-4d55-b8de-94e2336e0ace")
 		(property "Netclass" ""
-			(at 170.18 72.39 0)
+			(at 168.91 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1750,7 +1818,7 @@
 		)
 	)
 	(label "CAN-G"
-		(at 208.28 68.58 0)
+		(at 168.91 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1758,30 +1826,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "933b3f81-a922-461e-ae21-363bd88d102e")
+		(uuid "7f4dff90-b6c4-475b-a90d-1941658f0995")
 		(property "Netclass" ""
-			(at 208.28 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(label "GND"
-		(at 104.14 72.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ff6f1f0-37eb-4c3a-ac86-2aa89c66ad3f")
-		(property "Netclass" ""
-			(at 104.14 73.66 0)
+			(at 168.91 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1792,7 +1839,18 @@
 		)
 	)
 	(label "CAN-Y"
-		(at 170.18 86.36 0)
+		(at 168.91 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "879db0d2-5d86-4dc8-9330-df2003abbacb")
+	)
+	(label "CAN-Y"
+		(at 173.99 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1801,6 +1859,27 @@
 			(justify left bottom)
 		)
 		(uuid "b3166765-6b0b-49d7-99b3-0750bb80fefe")
+	)
+	(label "GND"
+		(at 73.66 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c45dad8b-0c10-4db1-80b6-167dc713026c")
+		(property "Netclass" ""
+			(at 73.66 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "GND"
 		(at 104.14 67.31 0)
@@ -1823,8 +1902,8 @@
 			)
 		)
 	)
-	(label "CAN-G"
-		(at 208.28 83.82 0)
+	(label "CAN-Y"
+		(at 168.91 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1832,9 +1911,20 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d623b706-a253-4640-b956-5dbf1ba150f0")
+		(uuid "e785e8d8-c796-4ab4-86b2-392e1f379dd4")
+	)
+	(label "GND"
+		(at 68.58 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8616e2e-666e-4a9a-ba89-ea26f174969f")
 		(property "Netclass" ""
-			(at 208.28 85.09 0)
+			(at 68.58 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1844,8 +1934,8 @@
 			)
 		)
 	)
-	(label "PWR"
-		(at 68.58 74.93 0)
+	(label "CAN-Y"
+		(at 173.99 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1853,21 +1943,238 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f8302e73-e7b6-426b-ab3b-458abee6dbb7")
+		(uuid "ef0d88bc-487b-46cb-a6ad-65f0faf41bff")
+	)
+	(label "CAN-G"
+		(at 204.47 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef903b19-62bb-4378-9774-c201580dae7d")
 		(property "Netclass" ""
-			(at 68.58 76.2 0)
+			(at 204.47 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 					(italic yes)
 				)
 				(justify left)
+			)
+		)
+	)
+	(label "CAN-Y"
+		(at 204.47 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f220a0cb-d242-4835-8df7-56ebd3889f83")
+	)
+	(label "CAN-Y"
+		(at 204.47 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f37c799c-f58c-42e8-9b9b-2d0667cd035f")
+	)
+	(label "PWR"
+		(at 73.66 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f60b8e72-0b32-4be0-9085-92c211f75cbb")
+		(property "Netclass" ""
+			(at 73.66 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(label "CAN-Y"
+		(at 204.47 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb20f1ae-7c8f-47ab-84fe-ad64826b563e")
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:70543-0036")
+		(at 180.34 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12c6e9f6-4b58-4dc5-b300-d1282d07a79f")
+		(property "Reference" "J3"
+			(at 196.85 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "70543-0036"
+			(at 196.85 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:SHDR2W64P0X254_1X2_737X660X1194P"
+			(at 196.85 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/705430036_sd.pdf"
+			(at 196.85 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Header 2.54mm, single row, vertical, 2w Molex SL Series, Series Number 70543, 2.54mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+			(at 180.34 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Header 2.54mm, single row, vertical, 2w Molex SL Series, Series Number 70543, 2.54mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+			(at 196.85 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "11.94"
+			(at 196.85 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Molex"
+			(at 196.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "70543-0036"
+			(at 196.85 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "538-70543-0036"
+			(at 196.85 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/70543-0036?qs=ZwgtpdmWYYRWNbj3UtGKiw%3D%3D"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 196.85 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 196.85 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4973dc8e-f3e9-4620-9681-207d3b01003e")
+		)
+		(pin "1"
+			(uuid "930058b2-e8d7-4fc9-94dc-644487a70e94")
+		)
+		(instances
+			(project "SwerveHubWago"
+				(path "/36bebe4d-1609-44a9-9ff6-e86a0adde0b2"
+					(reference "J3")
+					(unit 1)
+				)
 			)
 		)
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:SLW-1277744-3A-N-D")
-		(at 181.61 107.95 0)
+		(at 179.07 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1876,7 +2183,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c6eef13-ef67-443a-b6e1-927f231c8959")
 		(property "Reference" "S1"
-			(at 200.66 111.7599 0)
+			(at 198.12 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1885,7 +2192,7 @@
 			)
 		)
 		(property "Value" "SLW-1277744-3A-N-D"
-			(at 200.66 114.2999 0)
+			(at 198.12 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1894,7 +2201,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:SLW12777443AND"
-			(at 200.66 105.41 0)
+			(at 198.12 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1904,7 +2211,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.sameskydevices.com/product/resource/slw-1277744-3a-n-d.pdf"
-			(at 200.66 107.95 0)
+			(at 198.12 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1914,7 +2221,7 @@
 			)
 		)
 		(property "Description" "Slide Switches 12.7 x 7.7 x 4.4 mm, 3 mm Raised Slide Actuator, Through Hole"
-			(at 181.61 107.95 0)
+			(at 179.07 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1923,7 +2230,7 @@
 			)
 		)
 		(property "Description_1" "Slide Switches 12.7 x 7.7 x 4.4 mm, 3 mm Raised Slide Actuator, Through Hole"
-			(at 200.66 110.49 0)
+			(at 198.12 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1933,7 +2240,7 @@
 			)
 		)
 		(property "Height" "8"
-			(at 200.66 113.03 0)
+			(at 198.12 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,7 +2250,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Same Sky"
-			(at 200.66 115.57 0)
+			(at 198.12 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1953,7 +2260,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SLW-1277744-3A-N-D"
-			(at 200.66 118.11 0)
+			(at 198.12 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1963,7 +2270,7 @@
 			)
 		)
 		(property "Mouser Part Number" "179-SLW12777443AND"
-			(at 200.66 120.65 0)
+			(at 198.12 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,7 +2280,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/SLW-1277744-3A-N-D?qs=IKkN%2F947nfDtIMt0dYyHhg%3D%3D"
-			(at 200.66 123.19 0)
+			(at 198.12 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1983,7 +2290,7 @@
 			)
 		)
 		(property "Arrow Part Number" "SLW-1277744-3A-N-D"
-			(at 200.66 125.73 0)
+			(at 198.12 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1993,7 +2300,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/slw-1277744-3a-n-d/cui-devices?region=nac"
-			(at 200.66 128.27 0)
+			(at 198.12 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2028,7 +2335,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 175.26 118.11 270)
+		(at 172.72 128.27 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2036,15 +2343,15 @@
 		(dnp no)
 		(uuid "7499f4a6-9ebe-4627-8a08-848654b6e47a")
 		(property "Reference" "R1"
-			(at 175.26 120.65 90)
+			(at 172.72 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 175.514 115.824 90)
+		(property "Value" "R120"
+			(at 172.974 125.984 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2052,7 +2359,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 175.26 116.332 90)
+			(at 172.72 126.492 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2061,7 +2368,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 175.26 118.11 0)
+			(at 172.72 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +2377,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 175.26 118.11 0)
+			(at 172.72 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2094,7 +2401,342 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:2601-1104")
+		(lib_id "SamacSys_Parts:2601-3106")
+		(at 176.53 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "767207db-2ac8-4016-91e1-4580fa376333")
+		(property "Reference" "J5"
+			(at 189.23 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2601-3106"
+			(at 189.23 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:26013106"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.wago.com/2601-3106"
+			(at 198.12 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 6-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
+			(at 176.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 6-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
+			(at 198.12 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "16.58"
+			(at 198.12 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wago"
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "2601-3106"
+			(at 198.12 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 198.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 198.12 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "2601-3106"
+			(at 198.12 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/2601-3106/wago-kontakttechnik-gmbh?utm_currency=USD&region=nac"
+			(at 198.12 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "ed8dfdd3-385d-40b2-bd49-bb50d2ca9b58")
+		)
+		(pin "5"
+			(uuid "85d0cc4a-1447-4b45-b234-3ece775c1398")
+		)
+		(pin "2"
+			(uuid "69d9e620-8a39-47e2-a2f6-42d09bd2f7d2")
+		)
+		(pin "1"
+			(uuid "33b38f5b-8c80-4bb7-a077-fcf1255a1f07")
+		)
+		(pin "12"
+			(uuid "bf42bd70-0d99-4378-9625-f6355b46ae54")
+		)
+		(pin "11"
+			(uuid "3b266f80-59b3-4246-ae4b-0f3dc5459c05")
+		)
+		(pin "8"
+			(uuid "69952f5e-9f80-4784-9744-eccebbb36b04")
+		)
+		(pin "4"
+			(uuid "6f8cf96d-d2d3-485c-a38d-f9b7879b8ee9")
+		)
+		(pin "3"
+			(uuid "43be86db-1d0b-45a3-baca-f5260566f1a7")
+		)
+		(pin "9"
+			(uuid "ec6fdb1a-70cc-4293-ad91-bd1be2642faf")
+		)
+		(pin "7"
+			(uuid "6cae2c2c-93f5-4e8c-9bc9-959407cc564c")
+		)
+		(pin "6"
+			(uuid "e89dd1dc-61cf-46fd-a163-9d96b76e0c2c")
+		)
+		(instances
+			(project ""
+				(path "/36bebe4d-1609-44a9-9ff6-e86a0adde0b2"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:70543-0037")
+		(at 80.01 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b0bdd01b-19cf-45c1-b432-3817764eeede")
+		(property "Reference" "J1"
+			(at 96.52 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "70543-0037"
+			(at 96.52 114.2999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:SHDR3W97P0X254_1X3_1017X660X1181P"
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/70543-0037.pdf"
+			(at 96.52 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Header 2.54mm, single row, vertical, 3w Molex SL Series, Series Number 70543, 2.54mm Pitch 3 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+			(at 80.01 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Header 2.54mm, single row, vertical, 3w Molex SL Series, Series Number 70543, 2.54mm Pitch 3 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+			(at 96.52 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "11.81"
+			(at 96.52 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Molex"
+			(at 96.52 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "70543-0037"
+			(at 96.52 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "538-70543-0037"
+			(at 96.52 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/70543-0037?qs=tYx%252BZc2nXqrtAYibG9KyeQ%3D%3D"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 96.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 96.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95a41786-6184-4f84-b346-36c04f9333d8")
+		)
+		(pin "3"
+			(uuid "14317dcf-0424-4386-b61e-2a58e3248b59")
+		)
+		(pin "2"
+			(uuid "88c5fca6-292d-4f78-b551-1692b90fea9a")
+		)
+		(instances
+			(project ""
+				(path "/36bebe4d-1609-44a9-9ff6-e86a0adde0b2"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:2601-3102")
 		(at 74.93 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2102,7 +2744,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dd56b45c-1743-4ee9-ba6e-b1d0c851e232")
+		(uuid "be92dbc0-1808-47c7-8886-9c3ef581bbf8")
 		(property "Reference" "J2"
 			(at 87.63 59.69 0)
 			(effects
@@ -2111,7 +2753,7 @@
 				)
 			)
 		)
-		(property "Value" "2601-1104"
+		(property "Value" "2601-3102"
 			(at 87.63 62.23 0)
 			(effects
 				(font
@@ -2119,7 +2761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:26011104"
+		(property "Footprint" "SamacSys_Parts:26013102"
 			(at 96.52 64.77 0)
 			(effects
 				(font
@@ -2129,7 +2771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.wago.com/2601-1104"
+		(property "Datasheet" "https://www.wago.com/2601-3102"
 			(at 96.52 67.31 0)
 			(effects
 				(font
@@ -2139,7 +2781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 4-pole; Push-in CAGE CLAMP"
+		(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 2-pole; Push-in CAGE CLAMP"
 			(at 74.93 67.31 0)
 			(effects
 				(font
@@ -2148,7 +2790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 4-pole; Push-in CAGE CLAMP"
+		(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 2-pole; Push-in CAGE CLAMP"
 			(at 96.52 69.85 0)
 			(effects
 				(font
@@ -2158,7 +2800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "12.75"
+		(property "Height" "16.58"
 			(at 96.52 72.39 0)
 			(effects
 				(font
@@ -2178,7 +2820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "2601-1104"
+		(property "Manufacturer_Part_Number" "2601-3102"
 			(at 96.52 77.47 0)
 			(effects
 				(font
@@ -2228,29 +2870,17 @@
 				(hide yes)
 			)
 		)
-		(pin "5"
-			(uuid "95c7a6d7-bcf4-46d1-850b-6884893f9735")
-		)
-		(pin "6"
-			(uuid "f4ebeff7-b82b-488e-824f-8075e715ff5e")
-		)
-		(pin "7"
-			(uuid "dc220108-9466-4145-9e75-fafd648cd9ee")
-		)
-		(pin "2"
-			(uuid "d3fbb22e-e05e-4421-b21a-bd30821943d8")
-		)
-		(pin "8"
-			(uuid "cec7b4d8-3dc5-4a92-ac98-19ce8e55d051")
+		(pin "4"
+			(uuid "d723a97a-f995-454c-941f-afa63821bb94")
 		)
 		(pin "3"
-			(uuid "49139e1d-3280-4251-b2e8-544b491fc166")
+			(uuid "7ac812c0-cee9-4e72-8388-3e73a3c9110f")
 		)
 		(pin "1"
-			(uuid "d0618255-6dda-4bb8-8094-0bebec7903bd")
+			(uuid "4c2c5717-e408-4f07-b625-e1f4abc63829")
 		)
-		(pin "4"
-			(uuid "c96c9cb0-a6ac-4e3e-98a5-6c78c0e6f553")
+		(pin "2"
+			(uuid "640d2ba4-1c59-4389-ac53-15c98f7c0927")
 		)
 		(instances
 			(project ""
@@ -2262,17 +2892,17 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:15-91-3024")
-		(at 76.2 110.49 0)
+		(lib_id "SamacSys_Parts:70543-0036")
+		(at 180.34 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e6abd671-7169-4887-b063-19510088023b")
-		(property "Reference" "J3"
-			(at 92.71 110.4899 0)
+		(uuid "d965ef0e-c928-45f2-b521-b4952b07fdf9")
+		(property "Reference" "J4"
+			(at 196.85 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2280,8 +2910,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15-91-3024"
-			(at 92.71 113.0299 0)
+		(property "Value" "70543-0036"
+			(at 196.85 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2289,18 +2919,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:15913024"
-			(at 92.71 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/15-91-3024.pdf"
-			(at 92.71 110.49 0)
+		(property "Footprint" "SamacSys_Parts:SHDR2W64P0X254_1X2_737X660X1194P"
+			(at 196.85 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2309,17 +2929,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Headers & Wire Housings SL 2 CKT W-T-B SHROU"
-			(at 76.2 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Headers & Wire Housings SL 2 CKT W-T-B SHROU"
-			(at 92.71 113.03 0)
+		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/705430036_sd.pdf"
+			(at 196.85 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2328,8 +2939,27 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "7"
-			(at 92.71 115.57 0)
+		(property "Description" "Header 2.54mm, single row, vertical, 2w Molex SL Series, Series Number 70543, 2.54mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+			(at 180.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Header 2.54mm, single row, vertical, 2w Molex SL Series, Series Number 70543, 2.54mm Pitch 2 Way 1 Row Straight PCB Header, Solder Termination, 3A"
+			(at 196.85 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "11.94"
+			(at 196.85 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2339,7 +2969,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 92.71 118.11 0)
+			(at 196.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2348,8 +2978,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "15-91-3024"
-			(at 92.71 120.65 0)
+		(property "Manufacturer_Part_Number" "70543-0036"
+			(at 196.85 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2358,8 +2988,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "538-15-91-3024"
-			(at 92.71 123.19 0)
+		(property "Mouser Part Number" "538-70543-0036"
+			(at 196.85 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,158 +2998,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/15-91-3024?qs=u6Gr9%2FNt%252B%2F%252BxdZ%252BOvBqKyg%3D%3D"
-			(at 92.71 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 92.71 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 92.71 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5b5eba8a-d111-45e6-9107-026231e66c46")
-		)
-		(pin "1"
-			(uuid "e55b49a3-4c99-463d-b582-733b32f6fbd9")
-		)
-		(instances
-			(project ""
-				(path "/36bebe4d-1609-44a9-9ff6-e86a0adde0b2"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:2601-1110")
-		(at 176.53 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f7064420-5597-429d-8c90-7dde5a940ed1")
-		(property "Reference" "J1"
-			(at 190.5 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2601-1110"
-			(at 190.5 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:26011110"
-			(at 200.66 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.wago.com/2601-1110"
-			(at 200.66 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 10-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
-			(at 176.53 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "PCB terminal block; lever; 1.5 mm; Pin spacing 3.5 mm; 10-pole; Push-in CAGE CLAMP; 1,50 mm; gray"
-			(at 200.66 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "12.75"
-			(at 200.66 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Wago"
-			(at 200.66 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "2601-1110"
-			(at 200.66 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 200.66 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 200.66 81.28 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/70543-0036?qs=ZwgtpdmWYYRWNbj3UtGKiw%3D%3D"
+			(at 196.85 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2529,7 +3009,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 200.66 83.82 0)
+			(at 196.85 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2539,7 +3019,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 200.66 86.36 0)
+			(at 196.85 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2548,70 +3028,16 @@
 				(hide yes)
 			)
 		)
-		(pin "18"
-			(uuid "909b6d19-9950-48ed-b4c7-2ea51ac6de07")
-		)
-		(pin "15"
-			(uuid "9c4112fe-86fa-4132-9c60-2bae501b882e")
-		)
 		(pin "2"
-			(uuid "6f663a2f-1f73-4f71-93b5-0769d4365f7a")
-		)
-		(pin "9"
-			(uuid "28805252-2fba-4021-bf2c-47073578a86f")
-		)
-		(pin "5"
-			(uuid "01336468-4c7e-4b37-83fd-90152f7016da")
-		)
-		(pin "17"
-			(uuid "40694ad1-18a0-4533-a1d5-847481034a80")
-		)
-		(pin "10"
-			(uuid "efce282b-8afa-4583-875f-107172d1680b")
-		)
-		(pin "19"
-			(uuid "f5a3640b-84d4-4c07-9af4-7c604ed6262a")
-		)
-		(pin "13"
-			(uuid "efb460cd-d6ed-4ac2-be73-2280154844b0")
-		)
-		(pin "20"
-			(uuid "2b112725-6493-49b1-b267-f20dbe850ee6")
-		)
-		(pin "4"
-			(uuid "2ebbfe3d-8fc0-45da-9e15-1f6c2a425c92")
+			(uuid "4ee61d2d-1d5d-4cb6-a5bb-fb06f3840aff")
 		)
 		(pin "1"
-			(uuid "85b3d1c0-b44e-4152-9a02-a4c0b15a79d4")
-		)
-		(pin "11"
-			(uuid "48aa5671-e6f7-4ae0-9d1e-786a3fe76715")
-		)
-		(pin "14"
-			(uuid "2fa8c4f2-636b-4fd4-ab17-064d08a85fef")
-		)
-		(pin "3"
-			(uuid "906e81a8-e0e1-416d-9434-3facfcda23ba")
-		)
-		(pin "6"
-			(uuid "b7549b21-a5d9-4a40-983f-03d08fdac304")
-		)
-		(pin "7"
-			(uuid "843214ee-02b2-4c65-93c7-5a5074438763")
-		)
-		(pin "8"
-			(uuid "7134014b-5190-43a1-ad87-197540a34ca9")
-		)
-		(pin "12"
-			(uuid "342e193d-dc15-4d68-a0d1-71d3318daea6")
-		)
-		(pin "16"
-			(uuid "2b05964f-7b03-46b1-b820-2efb41b7de17")
+			(uuid "18bf20e6-5734-4037-838c-44aa3d425a2e")
 		)
 		(instances
 			(project ""
 				(path "/36bebe4d-1609-44a9-9ff6-e86a0adde0b2"
-					(reference "J1")
+					(reference "J4")
 					(unit 1)
 				)
 			)

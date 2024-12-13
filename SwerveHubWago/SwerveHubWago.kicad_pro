@@ -448,7 +448,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.5,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -469,7 +469,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SwerveHubWago.step",
       "svg": "",
       "vrml": ""
     },
@@ -580,5 +580,8 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "Name": "SwerveHubWago-Term",
+    "Rev": "Rev 2"
+  }
 }
